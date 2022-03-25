@@ -1,0 +1,41 @@
+Aprendi com a materia e as aulas um jeito diferente de versionar codigos com o git, 
+pelo ubuntu , tinha dificuldade de commitar meu codigos pelo sistema linux, 
+aprendi os três estados do git 
+stage , commit , inicial.
+
+um dos principais comandos do git quando se clona o git é (git clone 'URL'){    
+
+muito importante para se importar um repositoria para nossa maquina...
+
+}
+
+
+um outro comando importante é o (git init) {
+    
+    que é o estagio inicial para poder iniciar a versão do codigo 
+
+}    
+
+
+mais um comando importante que ainda não conhecia era o (git pull "só um complemento no video talvez nao esteja atualizada a maneria 
+de fazer um git pull , porque faltou falar que tem que ser git pull oringi main ) {
+
+
+    onde pegamos a modificação alguns conflitos de modificação no codigo fonte.
+}
+
+
+o comando (git add .) {
+    super importante para podermos adcionar os commits , tanto modificados ou novos 
+}
+
+
+e o comandos (git commit -m "Mensagem") {
+    não sabia que era tão importante a mensagem ate mesmo para poder disponibilizar para nossos colegas de equipe futuramente !
+}
+
+
+
+e para finalizar o comando (git push ) {
+    para podermos add nosso projeto no github !
+}
